@@ -1,0 +1,1 @@
+' set up for vs code to enable compiling within the ide
