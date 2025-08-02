@@ -1,4 +1,4 @@
-trying out maths
+' trying out maths
 dim num1 as integer, num2 as integer, sum as integer
 
 input "Enter your first number:"; num1

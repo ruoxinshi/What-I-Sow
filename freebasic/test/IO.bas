@@ -1,14 +1,15 @@
 ' this is some basic input and output codes
 
-Print "Hello! I still love you!"
+Print "The 80s called!"
 
-Print "Jael is probably";22;" years old now!"
+Print "I only got"; 5 ;" years left"
 
-Print "I still think about jael", "from time to time"
+Print "I still think about killing it"; " from time to time"
 
-trying out declarations
-dim girlName as string
+' trying out declarations
 
-input "Enter the girl's name: ", girlName
+dim personlName as string
 
-print "That girl is named: "; girlName
+input "Enter the person's name: ", personlName
+
+print "That person's name is: "; personlName
