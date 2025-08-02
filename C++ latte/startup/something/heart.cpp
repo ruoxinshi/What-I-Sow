@@ -17,26 +17,26 @@ int main() {
 
         cout << "Heart remaining: " << hearts << endl;
         
-        cout << "You see a bitch, slap it? ";
+        cout << "You see heisenberg, slap him? ";
         
         char triggerSlap;
 
         cin >> triggerSlap;
         
         if (triggerSlap == 'y') {
-            cout << "You slapped the bitch!" << endl;
+            cout << "You slapped heisenberg!" << endl;
             --hearts;
         } else if (triggerSlap == 'n') {
-            cout << "You stood still, staring at the bitch!" << endl;
+            cout << "You stood still, staring at heisenberg!" << endl;
         } else {
-            cout << "what you doing? slap that bitch!" << endl;
+            cout << "what you doing? slap that stronzo!" << endl;
         }
         
         
     } while (hearts > 0);
     
     cout << "Heart remaining: " << hearts << endl;
-    cout << "You slapped the bitch to death!" << endl;
+    cout << "You slapped that stronzo to death!" << endl;
 
 
 
