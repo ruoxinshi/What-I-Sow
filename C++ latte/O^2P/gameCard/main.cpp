@@ -78,5 +78,6 @@ int main () {
         achievement firstAch ("You only live once!", "Play the game and die once.", 1000);
 
         firstAch.displayAchievement();
+        
     return 0;
 }
