@@ -1,0 +1,42 @@
+/* externall css properties for stying.php */
+
+/* practice indention */
+
+    h2 {    
+        color: red;
+        background-color: gray;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    h3 {
+        border: 2px solid blanchedalmond;
+        text-align: center;
+    }
+
+    /* for links properties: link, visited, hover, active */
+
+    a:link {
+        color: orange;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    a:visited {
+        color: pink;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+
+    a:active {
+        color: indianred;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+
+
