@@ -54,7 +54,7 @@ int main() {
 
     // getting the size of the salary array
 
-    float getLength = theSalaries.size();
+    int getLength = theSalaries.size();
 
     // getting the total sum with for each loop
     
